@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/adriellyb/FrontendMentorChallenges/blob/main/Code typing-bro.png" alt="girl with a computer" width="320px" />
+  <img src="https://github.com/adriellyb/FrontendMentorChallenges/blob/main/code-typing-bro.png" alt="girl with a computer" width="320px" />
 </div>
 
 # Frontend Mentor Challenges
@@ -9,6 +9,13 @@
 ## Index
 - [Sobre](#sobre)
 - [Lista de Desafios](#lista-de-desafios)
+    - [Newbie](#newbie)
 
 ## Sobre
+
 ## Lista de Desafios
+
+### Newbie
+Desafio | Repositório | Linguagens
+------------ | -------------
+[Single price grid component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc) | lalalalalalalalla | 	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
