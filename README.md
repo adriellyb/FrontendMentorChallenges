@@ -21,7 +21,7 @@
 Desafio | Projeto | Linguagens 
 ------------ | ------------- | -------------
 [Single price grid component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc) | lalalalalalalalla | 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-[Interactive rating component](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI) | lalalalalalala | lalalalala
+[Interactive rating component](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI) | lalalalalalala | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 ### Junior
 ### Intermadiate
